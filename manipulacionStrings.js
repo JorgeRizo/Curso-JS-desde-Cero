@@ -1,4 +1,4 @@
-let frase= 'Me gustas desde que te ví por primera vez'
+ let frase= 'Me gustas desde que te ví por primera vez'
 console.log(frase.length)
 console.log(frase.charAt(40))
 console.log(frase.slice(0,8))
@@ -36,7 +36,7 @@ console.log(stringObjeto.toLocaleUpperCase())//Devuelve toda la cadena en mayusc
 console.log(stringObjeto.split(' '))//Este devuelve un objeto separado por el espacio que le dimos como 'parametro'.
 //console.log(stringObjeto.push(' .'))
 console.log(stringObjeto.concat(arrayFrase))//concatena dos objetos
-
+//Nueva linea de solo comentario.
 
 
 
